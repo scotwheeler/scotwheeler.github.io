@@ -1,0 +1,22 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: lightsteelblue;
+    margin: 10px;
+}
+header > h1{
+    color: midnightblue;
+    padding: 0px, 10px;
+}
+nav{}
+nav a{
+    margin: 5px;
+    padding: 5px;
+}
+section{
+    padding: 5px;
+}
+@media (print){
+    body{
+        background-color: white;
+    }
+}

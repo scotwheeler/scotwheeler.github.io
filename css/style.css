@@ -9,10 +9,17 @@ h1 {
     padding: 0px, 10px;
 }
 
+header {
+    background-color: midnightblue;
+    color: lightsteelblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
 nav ul, footer ul  {
     padding: 0px;
     list-style:none;
-    background-color: lightsteelblue;
+    
 }
 
 nav ul li, footer ul li {

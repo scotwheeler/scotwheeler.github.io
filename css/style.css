@@ -16,13 +16,13 @@ header {
     border-radius: 10px;
 }
 
-nav > ul, footer > ul  {
+nav ul, footer ul  {
     padding: 0px;
     list-style:none;
     
 }
 
-nav > ul > li, footer > ul > li {
+nav ul li, footer ul li {
     display: inline;
     margin-right: 20px
 }
@@ -31,7 +31,7 @@ a {
     text-decoration: none;
 }
 
-header > a {
+header a {
     color: lightsteelblue;
 }
 

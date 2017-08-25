@@ -2,3 +2,4 @@ name: Dr Scot's Blog
 
 theme: jekyll-theme-slate
 title: Welcome to scotwheeler's page
+permalink: /blog/:year/:month/:day/:title

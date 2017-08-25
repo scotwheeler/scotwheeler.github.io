@@ -29,6 +29,9 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
+}
+
+header a {
     color: lightsteelblue;
 }
 
